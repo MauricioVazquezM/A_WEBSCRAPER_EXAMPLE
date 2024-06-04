@@ -36,6 +36,7 @@
 
 - ***urllib.error.HTTPError, urllib.error.URLError:*** These are exception handling classes in the urllib.error module to handle exceptions raised by urllib.request functions.
 
+-***lxml:*** the lxml library is a powerful and feature-rich library in Python used for parsing XML and HTML documents very quickly, even handling large files. It provides a simple and straightforward API for XML and HTML parsing using the real-world-tested and flexible libraries behind it. 
 
 ```python
 import re
