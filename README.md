@@ -24,6 +24,7 @@
 
 - My goal with this web scraper is to demonstrate the functionality of a simple web scraping tool. Specifically, we collect information from a real estate website featuring properties from various states in Mexico. This project is intended for academic and exploratory purposes, aiming to showcase how web scraping can be used to gather and analyze data from online sources.
 
+- For security and privacy reasons, the link to the website has been removed.
 
 ## Libraries Used
 
