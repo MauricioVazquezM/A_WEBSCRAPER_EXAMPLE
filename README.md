@@ -1,6 +1,31 @@
 # Web Scraper Example
 
-## Libraries
+## Web Scraper
+
+- A web scraper is a software tool designed to extract data from websites. It automates the process of accessing web pages and retrieving specific information, such as text, images, or links, from the HTML structure of the page. Web scrapers are commonly used for a variety of purposes, including data mining, research, market analysis, price monitoring, and content aggregation. By using libraries like BeautifulSoup in Python, we can efficiently parse HTML and XML documents, navigate the page structure, and collect the desired data, transforming unstructured web data into structured formats that can be analyzed or utilized in various applications.
+
+- The objective of a web scraper is to automate the extraction of data from websites. This can serve various purposes, including:
+    1. **Data Collection:** Gather large volumes of data for analysis, research, or reporting without manual intervention.
+    2. **Market Research:** Monitor competitors' pricing, product availability, and market trends to inform business strategies.
+    3. **Content Aggregation:** Compile information from multiple sources into a single platform, such as news articles, blog posts, or reviews.
+    4. **Price Monitoring:** Track price changes on e-commerce sites to ensure competitive pricing or find the best deals.
+    5. **Lead Generation:** Collect contact information from websites to build databases for sales and marketing campaigns.
+    6. **Academic Research:** Obtain data for academic studies, experiments, or projects that require large datasets.
+    7. **Job Listings:** Aggregate job postings from various job boards for job seekers or recruitment agencies.
+    8. **Real Estate Listings:** Compile real estate data to analyze market trends or provide comprehensive property listings.
+    9. **Social Media Monitoring:** Track mentions, hashtags, or trends on social media platforms for brand management or sentiment analysis.
+    10. **Data Mining:** Extract and organize unstructured data into structured formats for further analysis or machine learning applications.
+
+- Overall, a web scraper's objective is to efficiently and accurately collect data from the web, transforming it into a usable format to meet specific needs or goals.
+
+
+
+## Project Objective
+
+- My goal with this web scraper is to demonstrate the functionality of a simple web scraping tool. Specifically, we collect information from a real estate website featuring properties from various states in Mexico. This project is intended for academic and exploratory purposes, aiming to showcase how web scraping can be used to gather and analyze data from online sources.
+
+
+## Libraries Used
 
 - ***re:*** This module provides regular expression matching operations similar to those found in Perl. It is used for complex string searching and manipulation. You can define search patterns and use them to find, replace, or split data based on specified criteria.
   
