@@ -1,5 +1,11 @@
 # Web Scraper Example
 
+<p align="center">
+  <img width="800" height="300" src="https://d1pnnwteuly8z3.cloudfront.net/images/4d5bf260-c3d0-4f21-b718-8ede8d4ca716/febf9de6-8a5a-4055-b274-e685485496f5.jpeg">
+</p>
+
+</br>
+
 ## Web Scraper
 
 - A web scraper is a software tool designed to extract data from websites. It automates the process of accessing web pages and retrieving specific information, such as text, images, or links, from the HTML structure of the page. Web scrapers are commonly used for a variety of purposes, including data mining, research, market analysis, price monitoring, and content aggregation. By using libraries like BeautifulSoup in Python, we can efficiently parse HTML and XML documents, navigate the page structure, and collect the desired data, transforming unstructured web data into structured formats that can be analyzed or utilized in various applications.
